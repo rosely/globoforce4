@@ -1,0 +1,42 @@
+#red {
+	background: #cc0000;
+}
+#orange {
+	background: #e69500;
+}
+#green {
+	background: #00cc00;
+}
+
+.light {
+	width: 70px;
+    	height: 70px;
+	margin: auto;
+	border-radius: 40px;
+	border: 10px solid black;
+}
+
+.selected {
+	filter: brightness(5000%);
+}
+
+.button {
+	margin: auto;
+	width: 120px;
+	height: 80px;
+	border: 10px solid black;
+	border-radius: 20px;
+	font-family: "Monospace";
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.background {
+	background-color: #f1f1f1;
+	padding: 16px;
+	width: 300px;
+	margin: auto;
+	text-align: center;
+	border-radius: 30px;
+}
+
